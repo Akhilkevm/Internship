@@ -1,0 +1,2 @@
+week1 around completed. still lagging some works in week0. studied about lists. 
+operations like list comprehension, uses of for and while loops.
